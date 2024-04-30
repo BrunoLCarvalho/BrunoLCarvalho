@@ -1,8 +1,11 @@
 
 # Bruno Carvalho 
 Engenheiro Eletricista especializado em Redes e Tecnologia da Informação 2x CCNA CISCO Routing & Switching.
+Estudante frequente e empolgado em C# e Python.
 
-An Electrical Engineer specialized in Networks and Information Technology, with two CCNA (Cisco Certified Network Associate) certifications in Routing & Switching. 
+An Electrical Engineer specialized in Networks and Information Technology, with two CCNA (Cisco Certified Network Associate) certifications in Routing & Switching.
+Dedicated and enthusiastic C# and Python learner
+
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lourenco-carvalho/)
 
